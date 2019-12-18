@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReferenceManagerConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>false</Enabled>
+</ReferenceManagerConfig>
+
+
+<!-- HELP for the Reference Manager config file
+Nodes under ReferenceManagerConfig :
+ - Enabled : true or false, in order to enable or disable the ReferenceManager
+ - TargetEnvironment : Dev, or Releases, or Production, or Maintenance, this is the environment uses for references. It is used to determine the local binaries folder that holds all the referenced dlls. It is also used when updating those dlls from a distant path (see Tools - Options - ReferenceManager to set up this base path)
+
+More info here : http://portailinfo/poleetudes/alm/wiki/ReferenceManager/Home.aspx
+-->
+
+

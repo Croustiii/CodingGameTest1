@@ -1,0 +1,7 @@
+C:\Users\sami.dief\source\repos\CGame\CGame\obj\Debug\CGame.csprojAssemblyReference.cache
+C:\Users\sami.dief\source\repos\CGame\CGame\obj\Debug\CGame.csproj.CoreCompileInputs.cache
+C:\Users\sami.dief\source\repos\CGame\CGame\bin\Debug\CGame.exe.config
+C:\Users\sami.dief\source\repos\CGame\CGame\bin\Debug\CGame.exe
+C:\Users\sami.dief\source\repos\CGame\CGame\bin\Debug\CGame.pdb
+C:\Users\sami.dief\source\repos\CGame\CGame\obj\Debug\CGame.exe
+C:\Users\sami.dief\source\repos\CGame\CGame\obj\Debug\CGame.pdb

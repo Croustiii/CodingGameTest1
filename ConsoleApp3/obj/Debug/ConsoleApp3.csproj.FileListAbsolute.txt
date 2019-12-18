@@ -1,0 +1,7 @@
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\sami.dief\source\repos\CGame\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
